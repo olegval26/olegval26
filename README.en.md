@@ -4,7 +4,7 @@
 
 <p align="center"><a href="README.md">🇷🇺 Русский</a> &nbsp;·&nbsp; <strong>🇬🇧 English</strong></p>
 
-<h1 align="center">Oleg · Go &amp; backend</h1>
+<h1 align="center">olegval26 · Go &amp; backend</h1>
 
 <p align="center">
   <strong>Learning Go and the fundamentals of backend development</strong><br />
