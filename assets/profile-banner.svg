@@ -14,7 +14,7 @@
   <text x="72" y="82" fill="#71e6d0" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="5">LEARNING IN PUBLIC  /  GO</text>
   <text x="72" y="158" fill="#f3f7ff" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="750">Учусь. Собираю.</text>
   <text x="72" y="214" fill="#f3f7ff" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="750">Улучшаю.</text>
-  <text x="74" y="264" fill="#b5c3d8" font-family="Inter,Arial,sans-serif" font-size="20">Студент 1 курса · изучаю Go и backend-разработку</text>
+  <text x="74" y="264" fill="#b5c3d8" font-family="Inter,Arial,sans-serif" font-size="20">Go · backend-разработка · небольшие проекты</text>
   <rect x="838" y="72" width="286" height="218" rx="18" fill="#0b1526" stroke="#607796" stroke-opacity=".4"/>
   <circle cx="866" cy="98" r="5" fill="#ff6e70"/><circle cx="884" cy="98" r="5" fill="#ffc65c"/><circle cx="902" cy="98" r="5" fill="#43d9b7"/>
   <text x="862" y="137" fill="#8195b3" font-family="ui-monospace,Menlo,monospace" font-size="13">MY LEARNING LOOP</text>
