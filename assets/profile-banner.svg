@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Учусь. Собираю. Улучшаю.</title>
+  <desc id="desc">Визуальная обложка профиля о начале пути в Go и backend-разработке.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#101d35"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#40e0c1"/><stop offset="1" stop-color="#7388ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9bb6d8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1070" cy="30" r="220" fill="#6d8cff" opacity=".08"/>
+  <circle cx="1035" cy="325" r="170" fill="#2ce0be" opacity=".07"/>
+  <path d="M0 290C250 190 380 390 660 250S1000 130 1200 190" fill="none" stroke="url(#beam)" stroke-opacity=".22" stroke-width="2"/>
+  <text x="72" y="82" fill="#71e6d0" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="5">LEARNING IN PUBLIC  /  GO</text>
+  <text x="72" y="158" fill="#f3f7ff" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="750">Учусь. Собираю.</text>
+  <text x="72" y="214" fill="#f3f7ff" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="750">Улучшаю.</text>
+  <text x="74" y="264" fill="#b5c3d8" font-family="Inter,Arial,sans-serif" font-size="20">Студент 1 курса · изучаю Go и backend-разработку</text>
+  <rect x="838" y="72" width="286" height="218" rx="18" fill="#0b1526" stroke="#607796" stroke-opacity=".4"/>
+  <circle cx="866" cy="98" r="5" fill="#ff6e70"/><circle cx="884" cy="98" r="5" fill="#ffc65c"/><circle cx="902" cy="98" r="5" fill="#43d9b7"/>
+  <text x="862" y="137" fill="#8195b3" font-family="ui-monospace,Menlo,monospace" font-size="13">MY LEARNING LOOP</text>
+  <text x="862" y="177" fill="#d8e5f7" font-family="ui-monospace,Menlo,monospace" font-size="17"><tspan fill="#51dfc0">01</tspan><tspan dx="14">learn the basics</tspan></text>
+  <text x="862" y="213" fill="#d8e5f7" font-family="ui-monospace,Menlo,monospace" font-size="17"><tspan fill="#8297ff">02</tspan><tspan dx="14">build a small project</tspan></text>
+  <text x="862" y="249" fill="#d8e5f7" font-family="ui-monospace,Menlo,monospace" font-size="17"><tspan fill="#ffc65c">03</tspan><tspan dx="14">make it clearer</tspan></text>
+  <rect x="862" y="266" width="212" height="3" rx="1.5" fill="url(#beam)"/>
+</svg>
